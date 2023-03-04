@@ -1,0 +1,182 @@
+@media screen  and (max-width: 475px) {
+    #ull {
+        display: none;
+    }
+    .span {
+        display: none;
+    }
+    .firs {
+        margin-right: 90px;
+    }
+    .image1 {
+        width: 100px;
+        padding-top: 20px;
+    }
+    .lione {
+        display: none;
+    }
+    .lione1 {
+        padding: 10px;
+    }
+    .li2 {
+        margin-right: 20px;
+    }
+    .menu {
+        display: contents;
+        background-color: white;
+        border: 1px solid white;
+        width: 50px;
+        padding: 10px;
+    }
+    .secondDiv {
+        align-items: flex-start;
+        display: contents;
+    }
+    .h2 {
+        font-size: 36px;
+        padding-right: 250px;
+        line-height: 40px;
+        margin-left: -40px;
+    }
+    .image2 {
+        display: none;
+    }
+    .para {
+        margin-bottom: 20px;
+        font-size: 24px;
+    }
+    .para1 {
+        font-size: 16px;
+        padding: 20px;
+    }
+    input {
+        width: 300px; 
+        height: 50px;
+        margin-bottom: 60px;
+    }
+    ::placeholder{
+        padding: 20px;
+        font-size: 10px;
+    }
+    .thirdDiv {
+        display: flex;
+    }
+    .divOne {
+        font-size: 20px;
+        margin-left: -0.5px;
+    } 
+    .divTwo {
+        font-size: 14px;
+        margin-right: 40px;
+        margin-top: 30px;
+    }
+    .grid-container {
+        display: contents;
+        background-color: white;
+        grid-template-rows: 270px 270px 270px 270px;
+        padding-left: 20px;
+        column-gap: 20px;
+        row-gap: 10px;
+        height: 400px;
+        justify-content: center;
+    }
+    .grid-item {
+        background-color: white;
+        border: 1px solid whitesmoke;
+        /* height: 470px; */
+        width: 430px;
+               
+    }
+    .firstimage {
+        width: 430px;
+        height: 220px;
+    }
+    .space {
+        margin-top: 200px;
+        padding-top: -200px;
+    }
+    .para3 {
+        font-size: 23px;
+        padding-top: -30px;
+        margin: 0px 0px -10px 0px;
+        justify-content: start;    
+    }
+    .para4 {
+        font-size: 15px;
+        justify-content: left;
+        padding: 20px 40px 70px 10px;
+    }
+    .image11 {
+        width: 370px;
+    }
+    .paraa {
+        font-size: 15px;
+        margin-left: -40px;
+    }
+    .flexi {
+        display: contents;
+        gap: 50px;
+        flex-direction: row;
+        justify-content: center;
+        width: 100%;
+        flex-wrap: wrap;
+        /* padding: 20px 40px 30px 10px; */
+        padding-right: 20px;
+    }
+    .flex {
+        width: 400px;
+        height: 150px;
+        border: 1px solid lightgrey;
+        background-color: white;
+        padding: 20px 20px 0px 0px;
+    }
+    .flexi2 {
+        display: contents;
+        gap: 50px;
+        flex-direction: row;
+        justify-content: center;
+        padding: 20px 40px 70px 10px;
+    }
+    .flex2 {
+        width: 340px;
+        padding-top: -20px;
+        height: 200px;
+        display: contents;
+        /* flex-direction: row; */
+    }
+    .div3 {
+        font-size: 25px;
+    }
+    .divfour {
+        display: contents;
+    }
+    .ulle {
+        padding: 60px 0px 0px 60px;
+        margin-left: 60px;
+        display: contents;
+        gap: 190px;
+        font-size: 18px;
+    }
+    .ulle2 {
+        padding-left: 120px;
+        line-height: 25px;
+        font-size: 14px;
+    }
+    .ulle3 {
+        padding-left: 150px;
+        font-size: 14px;
+    }
+    .ulle4 {
+        padding-left: 208px;
+        font-size: 14px;
+    }
+    .ulle5 {
+        padding-left: 100px;
+        font-size: 14px;
+    }
+    .laet {
+        padding: 40px 0px 40px 500px;
+        font-size: 16px;
+    }
+    
+}
